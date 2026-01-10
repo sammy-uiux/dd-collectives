@@ -169,4 +169,23 @@ body{
       font-size: 1.4rem;
     }
   }
-    
+
+  footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+  margin-top: 50px;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #ffcc66;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
